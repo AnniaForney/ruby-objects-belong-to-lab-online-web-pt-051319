@@ -7,5 +7,5 @@ class Song
   end
 
   def title
-    song.title 
+    self.title 
 end
